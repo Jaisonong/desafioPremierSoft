@@ -1,0 +1,14 @@
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\bin\Debug\net8.0\extrairInformacoes.exe
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\bin\Debug\net8.0\extrairInformacoes.deps.json
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\bin\Debug\net8.0\extrairInformacoes.runtimeconfig.json
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\bin\Debug\net8.0\extrairInformacoes.dll
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\bin\Debug\net8.0\extrairInformacoes.pdb
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\extrairInformacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\extrairInformacoes.AssemblyInfoInputs.cache
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\extrairInformacoes.AssemblyInfo.cs
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\extrairInformacoes.csproj.CoreCompileInputs.cache
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\extrairInformacoes.dll
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\refint\extrairInformacoes.dll
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\extrairInformacoes.pdb
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\extrairInformacoes.genruntimeconfig.cache
+C:\Estudos\DesafioPremierSoft\extrairInformacoes\extrairInformacoes\obj\Debug\net8.0\ref\extrairInformacoes.dll
